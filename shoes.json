@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Patrobas equip low black",
+        "price": 239000,
+        "image_url": "https://i.im.ge/2022/06/18/rGf6DS.png"
+    },
+    {
+        "id": "2",
+        "name": "Patrobas equip high black",
+        "price": 279000,
+        "image_url": "https://i.im.ge/2022/06/18/rGf90a.png"
+    },
+    {
+        "id": "3",
+        "name": "Patrobas equip low maroon",
+        "price": 239000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfIvT.png"
+    },
+    {
+        "id": "4",
+        "name": "Patrobas equip high maroon",
+        "price": 279000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfmey.png"
+    },
+    {
+        "id": "5",
+        "name": "Patrobas equip low charcoal",
+        "price": 239000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfNCz.png"
+    },
+    {
+        "id": "6",
+        "name": "Patrobas equip high charcoal",
+        "price": 279000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfjcJ.png"
+    },
+    {
+        "id": "7",
+        "name": "Patrobas ivan low black",
+        "price": 239000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfiKG.png"
+    },
+    {
+        "id": "8",
+        "name": "Patrobas ivan high black",
+        "price": 279000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfDC0.png"
+    },
+    {
+        "id": "9",
+        "name": "Patrobas ivan low maroon",
+        "price": 239000,
+        "image_url": "https://i.im.ge/2022/06/18/rGf5lx.png"
+    },
+    {
+        "id": "10",
+        "name": "Patrobas ivan high maroon",
+        "price": 279000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfU2c.png"
+    },
+    {
+        "id": "11",
+        "name": "Patrobas hugo low all black",
+        "price": 239000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfqcm.png"
+    },
+    {
+        "id": "12",
+        "name": "Patrobas hugo high all black",
+        "price": 279000,
+        "image_url": "https://i.im.ge/2022/06/18/rGfser.png"
+    }
+]
