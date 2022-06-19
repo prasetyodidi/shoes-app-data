@@ -1,0 +1,209 @@
+[
+    {
+        "id": "1",
+        "name": "Patrobas equip low black",
+        "price": 239000,
+        "stock": 8,
+        "sizes": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ],
+        "desc": "EQUIP merupakan kombinasi dari ciri khas kedua model sepatu Patrobas, yaitu Ivan dan Hawk. Disini, kami mengadopsi bumper belakang bermotif gerigi yang sudah menjadi ciri khas dari artikel Hawk sejak tahun 2018. Kemudian pemilihan warna logo stripe Patrob",
+        "image_url": "https://i.im.ge/2022/06/18/rGf6DS.png"
+    },
+    {
+        "id": "2",
+        "name": "Patrobas equip high black",
+        "price": 279000,
+        "stock": 27,
+        "sizes": [
+            36,
+            37,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ],
+        "desc": "EQUIP merupakan kombinasi dari ciri khas kedua model sepatu Patrobas, yaitu Ivan dan Hawk. Disini, kami mengadopsi bumper belakang bermotif gerigi yang sudah menjadi ciri khas dari artikel Hawk sejak tahun 2018. Kemudian pemilihan warna logo stripe Patrob",
+        "image_url": "https://i.im.ge/2022/06/18/rGf90a.png"
+    },
+    {
+        "id": "3",
+        "name": "Patrobas equip low maroon",
+        "price": 239000,
+        "stock": 15,
+        "sizes": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            42,
+            44
+        ],
+        "desc": "EQUIP merupakan kombinasi dari ciri khas kedua model sepatu Patrobas, yaitu Ivan dan Hawk. Disini, kami mengadopsi bumper belakang bermotif gerigi yang sudah menjadi ciri khas dari artikel Hawk sejak tahun 2018. Kemudian pemilihan warna logo stripe Patrob",
+        "image_url": "https://i.im.ge/2022/06/18/rGfIvT.png"
+    },
+    {
+        "id": "4",
+        "name": "Patrobas equip high maroon",
+        "price": 279000,
+        "stock": 31,
+        "sizes": [
+            36,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ],
+        "desc": "EQUIP merupakan kombinasi dari ciri khas kedua model sepatu Patrobas, yaitu Ivan dan Hawk. Disini, kami mengadopsi bumper belakang bermotif gerigi yang sudah menjadi ciri khas dari artikel Hawk sejak tahun 2018. Kemudian pemilihan warna logo stripe Patrob",
+        "image_url": "https://i.im.ge/2022/06/18/rGfmey.png"
+    },
+    {
+        "id": "5",
+        "name": "Patrobas equip low charcoal",
+        "price": 239000,
+        "stock": 11,
+        "sizes": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+        ],
+        "desc": "EQUIP merupakan kombinasi dari ciri khas kedua model sepatu Patrobas, yaitu Ivan dan Hawk. Disini, kami mengadopsi bumper belakang bermotif gerigi yang sudah menjadi ciri khas dari artikel Hawk sejak tahun 2018. Kemudian pemilihan warna logo stripe Patrob",
+        "image_url": "https://i.im.ge/2022/06/18/rGfNCz.png"
+    },
+    {
+        "id": "6",
+        "name": "Patrobas equip high charcoal",
+        "price": 279000,
+        "stock": 24,
+        "sizes": [
+            36,
+            37,
+            38,
+            39,
+            42,
+            43,
+            44
+        ],
+        "desc": "EQUIP merupakan kombinasi dari ciri khas kedua model sepatu Patrobas, yaitu Ivan dan Hawk. Disini, kami mengadopsi bumper belakang bermotif gerigi yang sudah menjadi ciri khas dari artikel Hawk sejak tahun 2018. Kemudian pemilihan warna logo stripe Patrob",
+        "image_url": "https://i.im.ge/2022/06/18/rGfjcJ.png"
+    },
+    {
+        "id": "7",
+        "name": "Patrobas ivan low black",
+        "price": 239000,
+        "stock": 39,
+        "sizes": [
+            36,
+            38,
+            39,
+            41,
+            42,
+            43,
+            44
+        ],
+        "desc": "IVAN series adalah sepatu yang sudah melalui proses penyegaran dengan menambahkan upper logo “wavy” sebagai brand identity Patrobas. Sepatu ini dirancang dengan konstruksi Vulcanized dan sudah melalui proses suhu uap yang tinggi, jadi tidak perlu diragukan",
+        "image_url": "https://i.im.ge/2022/06/18/rGfiKG.png"
+    },
+    {
+        "id": "8",
+        "name": "Patrobas ivan high black",
+        "price": 279000,
+        "stock": 42,
+        "sizes": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ],
+        "desc": "IVAN series adalah sepatu yang sudah melalui proses penyegaran dengan menambahkan upper logo “wavy” sebagai brand identity Patrobas. Sepatu ini dirancang dengan konstruksi Vulcanized dan sudah melalui proses suhu uap yang tinggi, jadi tidak perlu diragukan",
+        "image_url": "https://i.im.ge/2022/06/18/rGfDC0.png"
+    },
+    {
+        "id": "9",
+        "name": "Patrobas ivan low maroon",
+        "price": 239000,
+        "stock": 16,
+        "sizes": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            42,
+            43
+        ],
+        "desc": "IVAN series adalah sepatu yang sudah melalui proses penyegaran dengan menambahkan upper logo “wavy” sebagai brand identity Patrobas. Sepatu ini dirancang dengan konstruksi Vulcanized dan sudah melalui proses suhu uap yang tinggi, jadi tidak perlu diragukan",
+        "image_url": "https://i.im.ge/2022/06/18/rGf5lx.png"
+    },
+    {
+        "id": "10",
+        "name": "Patrobas ivan high maroon",
+        "price": 279000,
+        "stock": 24,
+        "sizes": [
+            38,
+            39,
+            40,
+            41,
+            43,
+            44
+        ],
+        "desc": "IVAN series adalah sepatu yang sudah melalui proses penyegaran dengan menambahkan upper logo “wavy” sebagai brand identity Patrobas. Sepatu ini dirancang dengan konstruksi Vulcanized dan sudah melalui proses suhu uap yang tinggi, jadi tidak perlu diragukan",
+        "image_url": "https://i.im.ge/2022/06/18/rGfU2c.png"
+    },
+    {
+        "id": "11",
+        "name": "Patrobas hugo low all black",
+        "price": 239000,
+        "stock": 35,
+        "sizes": [
+            36,
+            37,
+            38,
+            40,
+            41,
+            42,
+            44
+        ],
+        "desc": "HUGO HIGH cocok banget buat kamu yang suka Premium Classic. Design yang simple dan elegan ini gabakalan kemakan jaman sampai kapanpun! Pas banget dipake buat aktivitas sehari-hari dan di segala medan, karena dibuat dari bahan Kanvas 12 oz + Sol Karet design eksklusif dari PATROBAS.",
+        "image_url": "https://i.im.ge/2022/06/18/rGfqcm.png"
+    },
+    {
+        "id": "12",
+        "name": "Patrobas hugo high all black",
+        "price": 279000,
+        "stock": 26,
+        "sizes": [
+            36,
+            38,
+            39,
+            40,
+            42,
+            43,
+            44
+        ],
+        "desc": "HUGO HIGH cocok banget buat kamu yang suka Premium Classic. Design yang simple dan elegan ini gabakalan kemakan jaman sampai kapanpun! Pas banget dipake buat aktivitas sehari-hari dan di segala medan, karena dibuat dari bahan Kanvas 12 oz + Sol Karet design eksklusif dari PATROBAS.",
+        "image_url": "https://i.im.ge/2022/06/18/rGfser.png"
+    }
+]
