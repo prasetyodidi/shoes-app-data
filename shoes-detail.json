@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "7fb03941-8caf-4f6f-8822-4e5d8d2b1fd6",
         "name": "Patrobas equip low black",
         "price": 239000,
         "stock": 8,
@@ -19,7 +19,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGf6DS.png"
     },
     {
-        "id": 2,
+        "id": "23757e23-c507-45d0-bdaf-59210d44c5cc",
         "name": "Patrobas equip high black",
         "price": 279000,
         "stock": 27,
@@ -37,7 +37,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGf90a.png"
     },
     {
-        "id": 3,
+        "id": "2f7cbe6f-1f0a-4ef0-90ea-bec515ff888c",
         "name": "Patrobas equip low maroon",
         "price": 239000,
         "stock": 15,
@@ -54,7 +54,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfIvT.png"
     },
     {
-        "id": 4,
+        "id": "d4a1d325-5a11-47c3-8ee1-d03fe92c0c4a",
         "name": "Patrobas equip high maroon",
         "price": 279000,
         "stock": 31,
@@ -71,7 +71,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfmey.png"
     },
     {
-        "id": 5,
+        "id": "eb7b8e74-187f-4855-ac73-0d34ea171bd9",
         "name": "Patrobas equip low charcoal",
         "price": 239000,
         "stock": 11,
@@ -87,7 +87,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfNCz.png"
     },
     {
-        "id": 6,
+        "id": "3e27c256-12fd-4e62-843e-f237bb3973d5",
         "name": "Patrobas equip high charcoal",
         "price": 279000,
         "stock": 24,
@@ -104,7 +104,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfjcJ.png"
     },
     {
-        "id": 7,
+        "id": "6b672e62-b32c-40e0-bcde-690ac042f287",
         "name": "Patrobas ivan low black",
         "price": 239000,
         "stock": 39,
@@ -121,7 +121,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfiKG.png"
     },
     {
-        "id": 8,
+        "id": "5ad02f0c-3a11-4b77-a79f-c5f921c33c4e",
         "name": "Patrobas ivan high black",
         "price": 279000,
         "stock": 42,
@@ -140,7 +140,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfDC0.png"
     },
     {
-        "id": 9,
+        "id": "45cb4664-0822-4ea9-a6ab-135414839977",
         "name": "Patrobas ivan low maroon",
         "price": 239000,
         "stock": 16,
@@ -157,7 +157,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGf5lx.png"
     },
     {
-        "id": 10,
+        "id": "ea22964a-82f1-4956-aa85-44f5b79b9f32",
         "name": "Patrobas ivan high maroon",
         "price": 279000,
         "stock": 24,
@@ -173,7 +173,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfU2c.png"
     },
     {
-        "id": 11,
+        "id": "01d46621-7b05-4da8-8ce4-5bb06ee696d8",
         "name": "Patrobas hugo low all black",
         "price": 239000,
         "stock": 35,
@@ -190,7 +190,7 @@
         "image_url": "https://i.im.ge/2022/06/18/rGfqcm.png"
     },
     {
-        "id": 12,
+        "id": "8d009137-1ee6-4a14-88d5-5c7be9fac1dd",
         "name": "Patrobas hugo high all black",
         "price": 279000,
         "stock": 26,
